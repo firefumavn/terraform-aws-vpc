@@ -6,6 +6,18 @@
  terraform init
 ```
 
+### terraform plan
+
+```sh
+ terraform plan
+```
+
+### terraform apply
+
+```sh
+ terraform apply
+```
+
 ### Version
 |Name   | Version  |
 |---|---|
